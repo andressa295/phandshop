@@ -1,7 +1,6 @@
 'use client';
 
 import Image from 'next/image';
-import { Button } from "../../components/ui/button";
 import Planos from '../../components/Planos';
 
 export default function Home() {
